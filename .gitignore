@@ -1,0 +1,17 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+
+# AWS / Secrets
+.aws/
+*.pem
+*.key
+
+# OS / Editor
+.vscode/
+.DS_Store
+
+# Logs
+*.log
